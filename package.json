@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@onedoc/react-print": "^0.1.133",
+    "@fileforge/react-print": "^0.1.150",
     "next": "15.1.4",
     "next-intl": "^3.17.6",
     "react": "19.0.0",

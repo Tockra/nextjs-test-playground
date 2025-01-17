@@ -1,5 +1,5 @@
 import { Test } from "@/components/test";
-import { compile } from "@onedoc/react-print";
+import { compile } from "@fileforge/react-print";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, unstable_setRequestLocale } from "next-intl/server";
 
