@@ -1,5 +1,12 @@
 {
-    "i18n-ally.localesPaths": [
-        "messages"
-    ]
-}
+    "i18n-ally.localesPaths": ["messages"],
+    "eslint.lintTask.enable": true,
+    "editor.tabCompletion": "on",
+    "eslint.format.enable": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
+  
